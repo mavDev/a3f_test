@@ -14,5 +14,5 @@ function process($url,IParser $parser){
     $tagcollection->outputList();
 }
 
-process('http://localhost',new ParserGeg());
+process('https://marketcall.com',new ParserGeg());
 
