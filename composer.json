@@ -1,0 +1,15 @@
+{
+    "name": "mav/a3f",
+    "autoload": {
+        "psr-4": {
+            "Mav\\HtmlParsing\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mav",
+            "email": "mav@fryazino.net"
+        }
+    ],
+    "require": {}
+}
